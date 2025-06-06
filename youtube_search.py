@@ -2,7 +2,7 @@
 from googleapiclient.discovery import build
 import webbrowser
 
-YOUTUBE_API_KEY = "AIzaSyDo0FBSGZUwRx1l0rQuKzMVBpRuIoj-uIc"
+YOUTUBE_API_KEY = "Your Youtube API Key"
 
 def search_youtube_music(query):
     try:

@@ -1,2 +1,2 @@
 # MoodMuse
-MoodMuse is an AI-powered music recommendation system that uses real-time facial emotion detection via webcam to suggest mood-aligned music.
+MoodMuse is an AI-powered music recommendation system that uses real-time facial emotion detection via webcam to suggest mood-aligned music. Built with Python, DeepFace, and OpenCV, it classifies emotions like Happy, Sad, Angry, and Neutral by processing facial features. The system then maps these emotions to relevant music tracks using the YouTube Data API, delivering personalized suggestions through an interactive Flask web interface. NumPy and Pandas support backend data processing, with planned future enhancements involving emotion-based user behavior analytics and reinforcement learning for adaptive recommendations.
